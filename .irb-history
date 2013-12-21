@@ -1,0 +1,4 @@
+Employee.all
+Employee.first
+Employee.count
+exit

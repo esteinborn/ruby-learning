@@ -1,0 +1,22 @@
+{
+  "name": "soms",
+  "version": "5.0.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-sass": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-newer": "*",
+    "grunt-contrib-jshint": "*",
+    "matchdep": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zurb/foundation/blob/master/LICENSE"
+    }
+  ]
+}
