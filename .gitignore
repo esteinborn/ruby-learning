@@ -1,1 +1,8 @@
 node_modules
+.nvm
+.cache
+.npm
+.parts
+.rvm
+.ssh
+.bash*

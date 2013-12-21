@@ -1,9 +1,0 @@
-prefix: ''.
-wrapper: 'ruby'.
-wrapper: 'gem'.
-wrapper: 'irb'.
-wrapper: 'ri'.
-wrapper: 'rdoc'.
-wrapper: 'rake'.
-wrapper: 'erb'.
-wrapper: 'testrb'.
